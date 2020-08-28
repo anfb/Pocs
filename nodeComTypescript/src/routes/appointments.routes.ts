@@ -24,4 +24,10 @@ appointmentsRouter.post('/', (request, response) => {
   return response.json(appointment);
 });
 
+appointmentsRouter.get('/', (request, response) => {
+  const findAllAppointments = appointmentsRepository.findAll();
+
+  return response.json(findAllAppointments);
+});
+
 export default appointmentsRouter;
