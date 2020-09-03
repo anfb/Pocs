@@ -1,0 +1,15 @@
+C:\Users\barbo\source\repos\MousePosition\bin\Debug\MousePosition.exe.config
+C:\Users\barbo\source\repos\MousePosition\bin\Debug\MousePosition.exe
+C:\Users\barbo\source\repos\MousePosition\bin\Debug\MousePosition.pdb
+C:\Users\barbo\source\repos\MousePosition\obj\Debug\MousePosition.csprojAssemblyReference.cache
+C:\Users\barbo\source\repos\MousePosition\obj\Debug\MainWindow.g.cs
+C:\Users\barbo\source\repos\MousePosition\obj\Debug\App.g.cs
+C:\Users\barbo\source\repos\MousePosition\obj\Debug\MousePosition_MarkupCompile.cache
+C:\Users\barbo\source\repos\MousePosition\obj\Debug\MousePosition_MarkupCompile.lref
+C:\Users\barbo\source\repos\MousePosition\obj\Debug\MainWindow.baml
+C:\Users\barbo\source\repos\MousePosition\obj\Debug\MousePosition.g.resources
+C:\Users\barbo\source\repos\MousePosition\obj\Debug\MousePosition.Properties.Resources.resources
+C:\Users\barbo\source\repos\MousePosition\obj\Debug\MousePosition.csproj.GenerateResource.cache
+C:\Users\barbo\source\repos\MousePosition\obj\Debug\MousePosition.csproj.CoreCompileInputs.cache
+C:\Users\barbo\source\repos\MousePosition\obj\Debug\MousePosition.exe
+C:\Users\barbo\source\repos\MousePosition\obj\Debug\MousePosition.pdb
